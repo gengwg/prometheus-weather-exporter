@@ -8,14 +8,14 @@ https://www.weather.gov/documentation/services-web-api
 
 ## Install
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 ## Usage
 
-'''bash
-$ python -m twisted web --wsgi weather.app
 
-'''
+```bash
+$ python -m twisted web --wsgi weather.app
+```
 
 ## Test
 
